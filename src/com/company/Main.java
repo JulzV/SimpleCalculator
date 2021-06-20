@@ -29,7 +29,7 @@ public class Main {
         }
 
 //  Print answer
-        System.out.println(answer);
+        System.out.println("The answer is: " + answer);
 
     }
 }
